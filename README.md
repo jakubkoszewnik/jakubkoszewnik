@@ -1,4 +1,5 @@
 🏋️ Jakub Koszewnik 🏋️
+
 Data Analyst and Enthusiast
 
 I am a Data Analyst passionate eager to start a professional career in Data Analyst Amazing World! I dream about becoming the best Data Analyst in the world! But start with one step at a time. Please enjoy my repositories and feel free to contact me at jakubkoszewnik@gmail.com! 
