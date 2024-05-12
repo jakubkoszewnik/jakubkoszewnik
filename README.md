@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**jakubkoszewnik/jakubkoszewnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🏋️ Jakub Koszewnik 🏋️
 Data Analyst and Enthusiast
 
