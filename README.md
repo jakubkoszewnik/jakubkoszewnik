@@ -16,4 +16,4 @@ I am a Data Analyst passionate eager to start a professional career in Data Anal
 
 <img src="https://img.icons8.com/color/120/000000/power-bi.png"/> Power BI
 
-<img src="https://img.icons8.com/color/120/000000/looker.png"/> Looker Studio
+<img src="https://img.icons8.com/color/120/000000/looker-platform.png"/> Looker Studio
