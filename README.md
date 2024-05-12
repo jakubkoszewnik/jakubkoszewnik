@@ -6,9 +6,9 @@ I am a Data Analyst passionate eager to start a professional career in Data Anal
 
 🧰 **Languages and Tools**
 
-![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/120px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png) Microsoft Excel with Pivot Tables, Power Query and VBA
+![Excel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Excel_icon_%282019%29.svg/120px-Excel_icon_%282019%29.svg.png) Microsoft Excel with Pivot Tables, Power Query and VBA
 
-![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Microsoft_SQL_Server_Logo.svg/120px-Microsoft_SQL_Server_Logo.svg.png) SQL
+![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/120px-Amazon_Web_Services_Logo.svg.png) SQL
 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png) Python with data analyst libraries: Pandas, Numpy, Matplotlib, Seaborn
 
